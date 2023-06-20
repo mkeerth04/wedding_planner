@@ -1,0 +1,8 @@
+CUSTOMER SIDE
+1. Search for vendor
+2. Review System
+
+VENDOR SIDE
+1. Add Calender
+2. WHERE Specification
+3. Add/Remove Booking
